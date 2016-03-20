@@ -2,13 +2,21 @@
     <channel>
         <title><![CDATA[Opnamestudio in Vlaams brabant België]]></title>
         <description><![CDATA[Opnamestudio in Vlaams brabant België]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/opname-studio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 21:49:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Mar 2016 16:38:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/opname-studio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fender bassman 250 bassversterker met 15" speaker - Te koop]]></title>
+            <description><![CDATA[<article><h1>Fender bassman 250 bassversterker met 15" speaker - Te koop</h1><p>ik verkoop mijn Fender Bassman 250 combo basversterker, in perfecte staat, klinkt ongelofelijk goed, de EQ reageert mooi en de compressor houdt de...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6ee4e1fd6502ab212f9dd3b0a57c40f8987481c.jpg"></article>]]></description>
+            <link>http://www.2dehands.be/muziek/muziekinstrumenten/bascombo-s/fender-bassman-250-bassversterker-15-282478239.html?wijzig=1</link>
+            <guid isPermaLink="false">7ad65594-eb74-430f-94c3-b5a8e8664115</guid>
+            <pubDate>Sun, 20 Mar 2016 16:38:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined96a7efd1-524c-426a-bb02-81a8a50ab441/index.html</link>
+            <description><![CDATA[<p>all info ophttp://voodoostudio.be</p>]]></description>
+            <link>https://thegrid.ai/opname-studio/96a7efd1-524c-426a-bb02-81a8a50ab441/index.html</link>
             <guid isPermaLink="false">96a7efd1-524c-426a-bb02-81a8a50ab441</guid>
             <pubDate>Sat, 19 Mar 2016 21:49:47 GMT</pubDate>
         </item>
